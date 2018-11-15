@@ -12,6 +12,6 @@ class Shoe
   
   def cobbler
     self.condition = "new"
-    puts "the shoe's condition new"
+    puts ""
   end
 end
