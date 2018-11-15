@@ -5,9 +5,7 @@ class Shoe
   attr_reader :brand
   
   def initialize(brand)
-    @brands = "brand"
-    BRANDS << "brand"
-    BRANDS ==BRANDS.uniq!
+    @brand = "brand"
   end
   
   def cobbler
