@@ -10,7 +10,7 @@ class Shoe
     BRANDS ==BRANDS.uniq!
   end
   
-  
+  def cobbler
     self.condition = "new"
     puts "the shoe's condition new"
   end
