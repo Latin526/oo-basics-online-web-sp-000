@@ -11,7 +11,7 @@ class Shoe
   end
   
   def cobble
-    self.condition
+    self.condition = 
     puts "the shoe's condition new"
   end
 end
